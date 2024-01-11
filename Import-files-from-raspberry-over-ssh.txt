@@ -1,0 +1,10 @@
+
+
+/home/pi/how_do_drones_work/scripts/2/py
+
+scp pi@192.168.29.235:/home/pi/how_do_drones_work/scripts/2.py C:/Users/PAVN/Desktop/Pythonprojects/rpifiles
+
+
+
+scp pi@192.168.29.235:/home/pi/how_do_drones_work/scripts/sim/singl.py C:/Users/PAVN/Desktop/Pythonprojects/rpifiles
+
