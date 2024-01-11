@@ -1,5 +1,5 @@
 # Import-files-from-raspberry-over-ssh
-note1: your raspberry and your computer should connected to same wifi.
+note1: your raspberry and your computer should connected to same wifi.<br/>
 note2: you should know what is your raspberry pi ip address.
 
 steps to follow as bellow:
