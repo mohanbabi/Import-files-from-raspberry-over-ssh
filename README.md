@@ -14,7 +14,7 @@ steps to follow as bellow:<br/>
   7. press enter.<br/>
   8.next we need to enter raspberry pi password.<br/>
   9. if password is correct:<br/>
-        /t your file is copyed<br/>
+         your file is copyed<br/>
     else:<br/>
         you need to enter correct password.<br/>
 
