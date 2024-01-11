@@ -1,7 +1,7 @@
 # Import-files-from-raspberry-over-ssh
 note1: your raspberry and your computer should connected to same wifi.<br/>
 note2: you should know what is your raspberry pi ip address.<br/>
-
+#How USE SCP Command
 steps to follow as bellow:<br/>
   1.open your cmd in your PC<br/>
   2.Type scp and space.<br/>
