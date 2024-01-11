@@ -18,6 +18,4 @@ steps to follow as bellow:
     else:
         you need to enter correct password.
 
-scp 
-pi@192.168.29.235:
-/home/pi/how_do_drones_work/scripts/2.py
+
